@@ -49,4 +49,10 @@ div {
     box-sizing: border-box;
 }
 
+.title, .text{
+    color: white;
+}
 
+.text{
+    text-align: justify;
+}
