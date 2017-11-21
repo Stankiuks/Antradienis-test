@@ -1,0 +1,22 @@
+body {
+    background-image: url("../Image/Background.jpg");
+    background-repeat: repeat-y;
+    background-possition: center;
+}
+
+.container {
+    margin: 100px auto;
+    max-width: 1140px;
+    background-color: rgb(222, 227, 234);
+    box-sizing: border-box;
+    border-radius: 10px;
+    padding: 20px 40px;
+}
+
+.red {
+    background-color: tomato;
+}
+
+.sky-blue{
+    background-color: skyblue;
+}
